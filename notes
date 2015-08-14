@@ -1,0 +1,4 @@
+* To set debug to true, go to app/config/app.php
+* REST: clear, consistent URLs
+*  php artisan help
+* Create a controller:
